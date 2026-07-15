@@ -52,8 +52,8 @@ const profile = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hildan-anugrah)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hildan_hyell)
-[![Website](https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](http://hyell.6te.net)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hildan-anugrah)
+[![Website](https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](http://hyell.6te.net)
 
 </div>
 
