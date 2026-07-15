@@ -148,10 +148,6 @@ const profile = {
 
 <br>
 
----
-
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:1f6feb,100:0d1117&section=footer" />
