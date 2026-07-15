@@ -1,24 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:1f6feb,100:0d1117&text=HILDAN%20ANUGRAH&fontColor=ffffff&fontSize=40&desc=Information%20Systems%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI&descSize=16&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:1f6feb,100:0d1117&text=HILDAN%20ANUGRAH&fontColor=ffffff&fontSize=40&desc=Information%20Systems%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI&descSize=16&descAlignY=62&descColor=58a6ff&animation=fadeIn&section=footer" />
+<br><br>
 </div>
-
-
-
-
-
-
-
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Web+Development+Enthusiast;AI+%26+API+Integration;Building+things+that+%28hopefully%29+work;%22have+fun+bro...%22" />
 
 </div>
-
-
-
+<br><br>
 <div align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/hildan-anugrah?style=for-the-badge&logo=github&color=0d1117&labelColor=1f6feb&logoColor=white)](https://github.com/hildan-anugrah)
@@ -26,32 +17,34 @@
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
 
 ## 🧑‍💻 PROFILE
 
-<br/>
+<br>
 
-**`$ whoami`**
-
-```yaml
-name: Hildan Anugrah Tamadi Putra
-university: Horizon University Indonesia
-major: Information Systems
-interests:
-  - Web Development
-  - Backend & Databases
-  - AI & API Integration
-  - Building small things that (hopefully) work
-motto: "have fun bro..."
-status: 🔥 Always learning
+```typescript
+const profile = {
+  name: "Hildan Anugrah Tamadi Putra",
+  university: "Horizon University Indonesia",
+  major: "Information Systems",
+  interests: [
+    "Web Development",
+    "Backend & Databases",
+    "AI & API Integration",
+    "Building things that (hopefully) work"
+  ],
+  motto: "have fun bro...",
+  status: "🔥 Always learning",
+  availableFor: ["Collaboration", "Learning", "Side Projects"]
+};
 ```
 
-<br/>
+<br>
 
 **`$ cat socials.txt`**
 
@@ -63,15 +56,15 @@ status: 🔥 Always learning
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
 
 ## 🛠️ BUILD
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -79,58 +72,58 @@ status: 🔥 Always learning
 
 </div>
 
-<br/>
+<br>
 
-**`$ cat featured-projects.md`**
+**`$ ls -la projects/`**
 
-<br/>
+<br>
 
 **▸ Groq REST API** &nbsp; `[ ACTIVE ]`
-> ⚡ REST API untuk Groq LPU dengan Llama 3.1 — response time <400ms, free 1M tokens/hari, lengkap dengan web chat UI.
+> REST API untuk Groq LPU dengan Llama 3.1 — response time <400ms, free 1M tokens/hari, lengkap dengan web chat UI.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br/>
+<br>
 
 **▸ Gemini AI API** &nbsp; `[ EXPERIMENT ]`
-> 🤖 Integrasi Google Gemini AI untuk eksperimen dan pengembangan aplikasi berbasis AI.
+> Integrasi Google Gemini AI untuk eksperimen dan pengembangan aplikasi berbasis AI.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br/>
+<br>
 
 **▸ Hildan AI** &nbsp; `[ EXPERIMENT ]`
-> 🧠 Proyek AI eksperimental — exploring possibilities, building cool stuff.
+> Proyek AI eksperimental — exploring possibilities, building cool stuff.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-<br/>
+<br>
 
 **▸ Tugas Horizon** &nbsp; `[ COLLECTION ]`
-> 📚 Kumpulan tugas perkuliahan selama masa studi di Horizon University Indonesia.
+> Kumpulan tugas perkuliahan selama masa studi di Horizon University Indonesia.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
 
 ## 📊 STATS
 
-<br/>
+<br>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hildan-anugrah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<img height="170em" src="https://github-readme-stats-eight-ecru.vercel.app/api?username=hildan-anugrah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildan-anugrah&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<img height="170em" src="https://github-readme-stats-eight-ecru.vercel.app/api/top-langs/?username=hildan-anugrah&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -138,7 +131,7 @@ status: 🔥 Always learning
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -146,28 +139,30 @@ status: 🔥 Always learning
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hildan-anugrah&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" />
-
-</div>
-
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
+
+**`$ cat achievements.txt`**
 
 <div align="center">
 
-<pre>
+[![Stars](https://img.shields.io/badge/dynamic/json?style=flat-square&color=1f6feb&label=%E2%AD%90%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fhildan-anugrah)](https://github.com/hildan-anugrah)
+[![Forks](https://img.shields.io/github/forks/hildan-anugrah/groq-rest-api?style=flat-square&color=1f6feb&label=%F0%9F%8D%B4%20Forks)](https://github.com/hildan-anugrah/groq-rest-api)
+[![Followers](https://img.shields.io/github/followers/hildan-anugrah?style=flat-square&color=1f6feb&label=%F0%9F%91%A5%20Followers)](https://github.com/hildan-anugrah)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&color=1f6feb&label=%F0%9F%93%A6%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhildan-anugrah)](https://github.com/hildan-anugrah?tab=repositories)
 
-╔══════════════════════════════════════╗
-║       🔥 have fun bro... 🔥          ║
-╚══════════════════════════════════════╝
-</pre>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:1f6feb,100:0d1117&section=footer" />
 
